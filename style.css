@@ -1,0 +1,40 @@
+*{
+    background-color:rgb(0,0,0)
+}
+img{
+    width: 250px;
+    height: 600px;
+}
+.container {
+    position: relative;
+    text-align: center;
+    background-color: white;
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+  }
+  .bottom{
+    position: absolute;
+    bottom: 8px;
+    background-color: rgba(255,255,255, 0.25);
+    left: 16px;
+  }
+  .sty{
+        color: rgb(0, 255, 0);
+        font-size: 24px;
+  }
+.whit{
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-style:initial;
+}
+.dot{
+    color: rgb(255,255,255);
+        font-size: 40px;
+}
+td{
+    color: grey;
+}
+.icon
+{
+    color: green;
+}
